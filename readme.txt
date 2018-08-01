@@ -1,11 +1,22 @@
-﻿readme 
+﻿创建版本库
+1选择合适地方创建一个空目录,确保路径中不要包含有任何中文
+mkdir xxx
+cd xxx
+pwd//用于显示当前目录
+2通过git init 命令把这个目录编程git可以管理的仓库
+git init//仓库建好，且git可以管理
 
-this is the test 
+/*把文件添加到版本库*/
+要点：只能跟踪文本文件的改动——图片等二进制只能把文件串起来但北伐跟踪
+git add//此命令将添加到git仓库中
+git commit --m "this is a"//对版本进行说明
 
-you know nothing
+/*时空穿梭机*/
+git status//时刻了解仓库状态，如果有修改过可用git diff查看
+git diff//再git add 前，先看看改变了哪些东西，方便放心存储
+/*版本添加和回退*/
 
-this is a test 2
-
-to difference
-
-g
+git log
+git reset --hard HARD^
+git reset --hard 1094a
+git reflog
