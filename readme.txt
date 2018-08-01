@@ -21,3 +21,6 @@ git reset --hard HARD^
 git reset --hard 1094a
 git reflog//查看以前的ID
 
+工作区和暂存区
+
+cat xxx.txt//显示文档内容
