@@ -2,3 +2,5 @@
 1选择合适地方创建一个空目录
 mkdir xxx
 cd xxx
+
+1

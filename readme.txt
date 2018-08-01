@@ -19,4 +19,5 @@ git diff//再git add 前，先看看改变了哪些东西，方便放心存储
 git log
 git reset --hard HARD^
 git reset --hard 1094a
-git reflog
+git reflog//查看以前的ID
+
