@@ -25,4 +25,8 @@ git reflog//查看以前的ID
 
 cat xxx.txt//显示文档内容的
 
-git workspace
+/*撤销修改*/
+这行用于测试——撤销修改
+
+
+
