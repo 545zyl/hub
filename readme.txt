@@ -58,4 +58,9 @@ git stash//把当前工作现场存储起来，
 
 git is a free software
 
+git stash pop//恢复并删除
+git stash apply//恢复不删除
+git stash drop//删除
+
+电容isnot
 
