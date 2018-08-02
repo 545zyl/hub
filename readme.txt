@@ -51,6 +51,11 @@ git log --graph//可查看分支合并图。
 
 /*分支管理策略*/
 
+/*bug 分支*/
+git stash//把当前工作现场存储起来，
 
+测试 现场存储功能
+
+git is a free software
 
 
