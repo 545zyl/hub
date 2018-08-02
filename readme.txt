@@ -46,6 +46,9 @@ git checkout -b<name>//创建+切换分支
 git merge<name>//合并某分支到当前分支
 git branch -d<name>//删除分支
 
+creating a new branch is quick and simple
+
+
 
 
 
