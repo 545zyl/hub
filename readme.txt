@@ -28,5 +28,10 @@ cat xxx.txt//显示文档内容的
 /*撤销修改*/
 这行用于测试——撤销修改
 
+试着推送到 github
 
+/*分支*/
+git checkout -b dev//创建dev分支，然后切换dev分支
+
+creating a new branch is quick.
 
