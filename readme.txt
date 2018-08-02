@@ -47,9 +47,10 @@ git merge<name>//合并某分支到当前分支
 git branch -d<name>//删除分支
 
 creating a new branch is quick and simple
+git log --graph//可查看分支合并图。
+
+/*分支管理策略*/
 
 
-
-creating a new branch is quick & and  simple.
 
 
